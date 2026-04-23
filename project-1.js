@@ -58,7 +58,8 @@ class Project1 extends DDDSuper(LitElement) {
   }
 
   handleVote(e) {
-    const { index, type } = e.detail;
+    const index = e.detail.index;
+    const type = e.detail.type;
     const prev = this.userVotes[index];
 
     if (prev === "like") this.likes[index]--;
