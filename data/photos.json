@@ -1,0 +1,199 @@
+{
+  "photos": [
+    {
+      "image": "https://randomfox.ca/images/7.jpg",
+      "thumbnail": "https://randomfox.ca/images/7.jpg",
+      "title": "Looking Fox",
+      "description": "Fox looking for food",
+      "date": "February 13 2026",
+      "author": {
+        "name": "FatFox",
+        "avatar": "https://media.istockphoto.com/id/2227304006/photo/red-fox-yawning.jpg?s=612x612&w=0&k=20&c=9rf42ozE8PLCIz19nGQsS7Cd5LiSCfS0kUtRjtuJjSI=",
+        "channel": "FatFox",
+        "userSince": "2025"
+      }
+    },
+    {
+      "image": "https://randomfox.ca/images/2.jpg",
+      "thumbnail": "https://randomfox.ca/images/2.jpg",
+      "title": "The watcher",
+      "description": "A fox looking at you",
+      "date": "January 23 2026",
+      "author": {
+        "name": "Quiet Trails",
+        "avatar": "https://media.istockphoto.com/id/2227304006/photo/red-fox-yawning.jpg?s=612x612&w=0&k=20&c=9rf42ozE8PLCIz19nGQsS7Cd5LiSCfS0kUtRjtuJjSI=",
+        "channel": "ForestFox",
+        "userSince": "2025"
+      }
+    },
+    {
+      "image": "https://randomfox.ca/images/14.jpg",
+      "thumbnail": "https://randomfox.ca/images/14.jpg",
+      "title": "LazyFox",
+      "description": "SleepyFox",
+      "date": "April 2 2026",
+      "author": {
+        "name": "Slow Fox",
+        "avatar": "https://media.istockphoto.com/id/2227304006/photo/red-fox-yawning.jpg?s=612x612&w=0&k=20&c=9rf42ozE8PLCIz19nGQsS7Cd5LiSCfS0kUtRjtuJjSI=",
+        "channel": "TiredFox",
+        "userSince": "2026"
+      }
+    },
+    {
+      "image": "https://randomfox.ca/images/9.jpg",
+      "thumbnail": "https://randomfox.ca/images/9.jpg",
+      "title": "A quick fox",
+      "description": "A fox moving",
+      "date": "February 24 2026",
+      "author": {
+        "name": "Fox moves",
+        "avatar": "https://media.istockphoto.com/id/2227304006/photo/red-fox-yawning.jpg?s=612x612&w=0&k=20&c=9rf42ozE8PLCIz19nGQsS7Cd5LiSCfS0kUtRjtuJjSI=",
+        "channel": "Foxes4Real",
+        "userSince": "2025"
+      }
+    },
+    {
+      "image": "https://randomfox.ca/images/1.jpg",
+      "thumbnail": "https://randomfox.ca/images/1.jpg",
+      "title": "Chilling",
+      "description": "Just chilin",
+      "date": "January 1 2026",
+      "author": {
+        "name": "AlexDaFox",
+        "avatar": "https://media.istockphoto.com/id/2227304006/photo/red-fox-yawning.jpg?s=612x612&w=0&k=20&c=9rf42ozE8PLCIz19nGQsS7Cd5LiSCfS0kUtRjtuJjSI=",
+        "channel": "Nature",
+        "userSince": "2025"
+      }
+    },
+    {
+      "image": "https://randomfox.ca/images/11.jpg",
+      "thumbnail": "https://randomfox.ca/images/11.jpg",
+      "title": "Chill Foxes",
+      "description": "Cooling Around",
+      "date": "March 12 2026",
+      "author": {
+        "name": "Chill foxes",
+        "avatar": "https://media.istockphoto.com/id/2227304006/photo/red-fox-yawning.jpg?s=612x612&w=0&k=20&c=9rf42ozE8PLCIz19nGQsS7Cd5LiSCfS0kUtRjtuJjSI=",
+        "channel": "Chill",
+        "userSince": "2025"
+      }
+    },
+    {
+      "image": "https://randomfox.ca/images/5.jpg",
+      "thumbnail": "https://randomfox.ca/images/5.jpg",
+      "title": "Bunch of foxes",
+      "description": "fox prints",
+      "date": "January 30 2026",
+      "author": {
+        "name": "fox paws",
+        "avatar": "https://media.istockphoto.com/id/2227304006/photo/red-fox-yawning.jpg?s=612x612&w=0&k=20&c=9rf42ozE8PLCIz19nGQsS7Cd5LiSCfS0kUtRjtuJjSI=",
+        "channel": "dafox_123",
+        "userSince": "2025"
+      }
+    },
+    {
+      "image": "https://randomfox.ca/images/13.jpg",
+      "thumbnail": "https://randomfox.ca/images/13.jpg",
+      "title": "QuickFox",
+      "description": "Two foxes again",
+      "date": "March 26 2026",
+      "author": {
+        "name": "FastFox",
+        "avatar": "https://media.istockphoto.com/id/2227304006/photo/red-fox-yawning.jpg?s=612x612&w=0&k=20&c=9rf42ozE8PLCIz19nGQsS7Cd5LiSCfS0kUtRjtuJjSI=",
+        "channel": "FastestFox",
+        "userSince": "2026"
+      }
+    },
+    {
+      "image": "https://randomfox.ca/images/8.jpg",
+      "thumbnail": "https://randomfox.ca/images/8.jpg",
+      "title": "Proud fox",
+      "description": "Coolest fox around",
+      "date": "February 20 2026",
+      "author": {
+        "name": "ProudFox",
+        "avatar": "https://media.istockphoto.com/id/2227304006/photo/red-fox-yawning.jpg?s=612x612&w=0&k=20&c=9rf42ozE8PLCIz19nGQsS7Cd5LiSCfS0kUtRjtuJjSI=",
+        "channel": "Fox4Ever",
+        "userSince": "2025"
+      }
+    },
+    {
+      "image": "https://randomfox.ca/images/3.jpg",
+      "thumbnail": "https://randomfox.ca/images/3.jpg",
+      "title": "Fox Walking",
+      "description": "on a walk",
+      "date": "January 30 2026",
+      "author": {
+        "name": "Roaming Fox",
+        "avatar": "https://media.istockphoto.com/id/2227304006/photo/red-fox-yawning.jpg?s=612x612&w=0&k=20&c=9rf42ozE8PLCIz19nGQsS7Cd5LiSCfS0kUtRjtuJjSI=",
+        "channel": "The fox channel",
+        "userSince": "2025"
+      }
+    },
+    {
+      "image": "https://randomfox.ca/images/15.jpg",
+      "thumbnail": "https://randomfox.ca/images/15.jpg",
+      "title": "AlbinoFox",
+      "description": "Rare fox",
+      "date": "April 9 2026",
+      "author": {
+        "name": "SnowFox",
+        "avatar": "https://media.istockphoto.com/id/2227304006/photo/red-fox-yawning.jpg?s=612x612&w=0&k=20&c=9rf42ozE8PLCIz19nGQsS7Cd5LiSCfS0kUtRjtuJjSI=",
+        "channel": "ArcticFox",
+        "userSince": "2025"
+      }
+    },
+    {
+      "image": "https://randomfox.ca/images/6.jpg",
+      "thumbnail": "https://randomfox.ca/images/6.jpg",
+      "title": "Cute fox",
+      "description": "fox hearing something",
+      "date": "February 6 2026",
+      "author": {
+        "name": "Fox Hears",
+        "avatar": "https://media.istockphoto.com/id/2227304006/photo/red-fox-yawning.jpg?s=612x612&w=0&k=20&c=9rf42ozE8PLCIz19nGQsS7Cd5LiSCfS0kUtRjtuJjSI=",
+        "channel": "FoxEars",
+        "userSince": "2025"
+      }
+    },
+    {
+      "image": "https://randomfox.ca/images/10.jpg",
+      "thumbnail": "https://randomfox.ca/images/10.jpg",
+      "title": "HungryFox",
+      "description": "Fox about to eat",
+      "date": "March 5 2026",
+      "author": {
+        "name": "Focused fox",
+        "avatar": "https://media.istockphoto.com/id/2227304006/photo/red-fox-yawning.jpg?s=612x612&w=0&k=20&c=9rf42ozE8PLCIz19nGQsS7Cd5LiSCfS0kUtRjtuJjSI=",
+        "channel": "TheHunt",
+        "userSince": "2026"
+      }
+    },
+    {
+      "image": "https://randomfox.ca/images/12.jpg",
+      "thumbnail": "https://randomfox.ca/images/12.jpg",
+      "title": "Big Eyed Fox",
+      "description": "Fox about to pounce",
+      "date": "March 19 2026",
+      "author": {
+        "name": "FoxFirst",
+        "avatar": "https://media.istockphoto.com/id/2227304006/photo/red-fox-yawning.jpg?s=612x612&w=0&k=20&c=9rf42ozE8PLCIz19nGQsS7Cd5LiSCfS0kUtRjtuJjSI=",
+        "channel": "Foxlife",
+        "userSince": "2025"
+      }
+    },
+    {
+      "image": "https://randomfox.ca/images/4.jpg",
+      "thumbnail": "https://randomfox.ca/images/4.jpg",
+      "title": "Fox squared",
+      "description": "Two foxes lit",
+      "date": "February 13 2026",
+      "author": {
+        "name": "Two foxes",
+        "avatar": "https://media.istockphoto.com/id/2227304006/photo/red-fox-yawning.jpg?s=612x612&w=0&k=20&c=9rf42ozE8PLCIz19nGQsS7Cd5LiSCfS0kUtRjtuJjSI=",
+        "channel": "Fox and friends",
+        "userSince": "2025"
+      }
+    }
+  ]
+}
